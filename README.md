@@ -116,14 +116,17 @@ npm run dev
 
 *(Replace with your screenshots)*
 
-* **Dashboard**
-  ![Dashboard](screenshots/home)
+* **Home**
+  ![Home](screenshots/home.png)
+
+  * **Dashboard**
+  ![Dashboard](screenshots/dashboard.png)
 
 * **Product Detail**
-  ![Product Detail](link-to-product-screenshot)
+  ![product](screenshots/product.png)
 
 * **Cart & Checkout**
-  ![Cart](link-to-cart-screenshot)
+  ![cart](screenshots/cart.png)
 
 ---
 
