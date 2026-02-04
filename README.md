@@ -119,7 +119,16 @@ npm run dev
 * **Home**
   ![Home](screenshots/home.png)
 
-  * **Dashboard**
+* **Register**
+  ![Register](screenshots/register.png)
+
+* **Login**
+  ![Login](screenshots/login.png)
+
+* **Categories**
+  ![Categories](screenshots/categories.png)
+  
+* **Dashboard**
   ![Dashboard](screenshots/dashboard.png)
 
 * **Product Detail**
